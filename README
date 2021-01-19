@@ -1,0 +1,23 @@
+lioraryepaz, omer_van
+Lior Paz (206240996), Omer Vandsburger (204153688)
+EX: 1
+
+FILES:
+README -- details + assigment 1
+osm.cpp -- provides functions to measure the time it takes to perform three different operations
+Makefile -- for the command make creates the library libosm.a
+Ex1_Part1.png -- Bar graph results of part 2.
+
+REMARKS:
+
+ANSWERS:
+
+Assigment 1:
+The program receive 1 argument. The Program open the following directory Welcome/To, with full
+permissions for user and group, where
+ others have no permission to write. than a file is created named OS2020, with no permissions to
+ execute (make sense because it's not an executable file). The following is written:
+ "<username>
+ if you have'nt read the course guidelines yet --- do it right now!
+ <user_input>"
+ Than, the file is deleted, so as the directories created, and the program leaved no mark.
